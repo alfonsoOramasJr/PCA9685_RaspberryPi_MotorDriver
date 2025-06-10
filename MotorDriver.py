@@ -2,7 +2,7 @@
 MotorDriver.py
 
 This file functions as a API for sending PWM signals through the
-PCA9685 16 Channel Driver I2C Module.
+PCA9685 16 Channel Driver I2C Module to an electronic speed controller.
 
     * Example use case in a DIFFERENT file is as follows:
             from MotorDriver import MotorDriver
