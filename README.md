@@ -20,7 +20,7 @@ If you're just copying the code, remember to change the library name 'MotorDrive
 from MySeparateFile import MotorDriver
 ```
 
-*Make sure to configurate the Raspberry Pi to allow IIC interface with the PCA97865.*
+*Make sure to configure the Raspberry Pi to allow IIC interface with the PCA97865.*
 
 * *In a terminal on the raspberry pi, write ```sudo raspi-config```.*
 * *Select ```interface options```.*
